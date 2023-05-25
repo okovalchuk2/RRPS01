@@ -6,4 +6,4 @@
 2.	Список 2
 3.	Список 3
 
-![зображення] (https://media.ztu.edu.ua/wp-content/uploads/2020/02/Group-6-1-1536x465.png)
+![ зображення](https://media.ztu.edu.ua/wp-content/uploads/2020/02/Group-6-1-1536x465.png)
